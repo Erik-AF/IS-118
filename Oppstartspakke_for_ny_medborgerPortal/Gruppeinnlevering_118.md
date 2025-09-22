@@ -46,6 +46,13 @@ Prosjekter har som oftest en veldig klar deadline, der det settes sterke resulta
 Faser:
 Erling kan dele opp prosjektet i forskjellige faser. Dette gjør det enklere å håndtere stress, og gjør at han kan fokusere på en ting om gangen. Det første er en «formingsfase» der gruppen etableres. Deretter følger en «stormingsfase» der uklarheter kommer opp og konflikter oppstår. Her er det viktig med god kommunikasjon innat gruppen. Dette følges av en «normsettingsfase» der det utarbeides felles normer og verdier, noe som til slutt går over i en «Produksjonsfase» kjennetegner av forutsigbarheten mot at ulike prosesser i prosjektgruppen er av ulik viktighet på ulike tidspunkter. (Jacobsen, 2016, s. 19)
 
+Episoder:
+Det er viktig å ta i bruk episoder når det kommer til gruppearbeid Lag en tidsplan med små leveranser underveis. Dette gjør det enklere å fokusere på en ting om gangen, og skille de forskjellige oppgavene. I stedet for å jobbe mot en stor deadline, deler de opp prosjektet i mindre milepæler og deloppgaver. Milepælene kan være delt opp enten ukentlig eller månedlig for å kunne sette tidspresset bedre i perspektiv. (Jacobsen, 2016, s. 19)
+
+Unngå planleggingsfellen:
+Planleggingsfellen handler om at grupper ofte bruker mye tid på å diskutere og planlegge i stedet for å komme i gang med selve arbeidet. For å unngå dette burde man sette en tidsramme for planleggingen. Det er ofte bedre å komme i gang tidlig, teste en løsning og heller justere underveis. Det er veldig vanskelig å planlegge helt perfekt før et prosjekt start. Milepæler og deloppgaver hjelper også, fordi de gir klare frister som tvinger gruppa til å levere noe konkret i stedet for å fortsette og planlegge.
+
+
 
 
 ## 6. Sikring av god kommunikasjon
