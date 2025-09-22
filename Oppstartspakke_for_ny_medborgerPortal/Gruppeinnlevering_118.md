@@ -31,7 +31,21 @@ Skriv in teksten din her
 
 ## 3. Rammer for relasjonelle kontrakter
 
-Skriv in teksten din her
+Når man starter et prosjekt med personer med ulike personligheter og ulike fagområder, er det viktig at det er et velfungerende samarbeidet mellom gruppen, prosjektleder og prosjekteier. Det holder ikke å fokusere på "jerntriangelet" tid, kvalitet og kostnad alene, man må også komme til et enighet på hvordan man på en best mulig måte jobbe sammen. En rasjonell kontrakt kan være en god løsning, som handler om hvordan folk samarbeider i en gruppe. Målet for et slikt kontrakt er å skape god 
+kommunikasjon, tillit og trygghet, for å bygge et godt samarbeids miljø. Et slikt kontrakt burde inneholde:
+
+**Felles mål og verdier**. Denne ideen som går inn på hva vil vi som gruppe oppnå og hvordan vil vi jobbe sammen. 
+
+**Klare fordelinger av roller og ansvar**. Som forteller hvem gjør hva og hvem tar beslutninger. 
+
+**Kommunikasjons kanaler og avtaler**. Som forteller noen om hvor ofte gruppen burde møtes og hvordan deler vi informasjon.
+
+**Tillitsbygging og konflikthåndtering**. Hvordan viser vi som gruppe åpenhet og respekt, og når det oppstår konflikter, hvordan skal uenigheter løses og håndteres før de blir til store problemer.
+
+**Håndtering av endringer**. Hvordan går vi fram, hvis noe må endres underveis.
+
+**Evaluering**. Hvordan kan vi som gruppe følge opp samarbeidet og lære underveis, mot en bedre resultat. 
+
 
 
 ## 4. Proaktive mekanismer for konflikthåndtering
