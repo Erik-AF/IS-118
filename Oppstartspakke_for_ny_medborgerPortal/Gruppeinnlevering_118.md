@@ -2,7 +2,27 @@
 
 ## 1. Strategi for rekruttering og sammensetning
 
-Skriv in teksten din her
+
+
+Gjennom utlysningen av åtte stillinger, fordelt på ulike fagområder, oppnås et bemanningsgrunnlag som ivaretar både faglig bredde og kompetansemangfold. Sammensetningen av nevnte fagområder sikrer de nevnte faglige kravene, noe som er essensielt i et sluttprodukt av høykvalitet.
+De utarbeidende premissene muliggjør et fremmet fokus på sosial og demografisk likhet i tilsendt strategiforslag. Mangfold i gruppa gir rom for innovasjon, men kan også være grunnen til konflikt (Jacobsen, 2016, s. 34). Derfor er et prosjekt med en levetid på 15 måneder avhengig av et fellesskap blant gruppas medlemmer. Dette nevnte fellesskapet kan beredes allerede i rekrutteringsfasen, ved å forebygge mistillit (Jacobsen, 2016, s. 34).
+
+Tillit dannes enten med hjelp av personlig relasjon eller opparbeidet rykte. Fortrinnsvis kan tre av de kommunale representantene finne ro i en innledende tillit fra et organisasjonelt nivå (Jacobsen, 2016, s. 35), derimot er det mer som ligger til grunnlag for resterende medlemmer. To rekrutteringstiltak som kan ha positiv innvirkning på fellesskapet er en) ansettelsen av jevnaldrende på tvers av roller og to) likhet i personlighetene til individene. Erling bør derfor strategisere for at de personlige egenskapene best komplimenterer individene. Individer som homogent tilhører hverandre øker sannsynligheten for en balansert prosjektgruppe. Disse personlige egenskapene ligger til grunn for den sosiale dynamikken. Vår anbefaling er å etterse ferdigheter og personlighetstrekk som matcher de fire sentrale rollene i rolleteorien: produksjon, administrasjon, integrasjon og entreprenørskap (Jacobsen, 2016, s. 33).
+
+Følgende bemanningsanbefaling ble utformet på basis av rolleteorien:
+
+Formål: Denne anbefalingen gjelder behovet for mangfold i “digital medborgerportal” prosjektet.
+Bakgrunn: Per dags dato har ansettelsesprosessen ikke blitt iverksatt, men detaljene er etablert. Anbefalingen definerer hva slags personer bør ansettes.
+
+bemanningsanbefaling:
+
+Produksjon - Denne teamrollen finner vi best i fagspesialistene. Rekrutteringen av UX/UI designeren og IT representanter dekker behovet for personell som har utføringsevne og størst interesse i arbeidet. 30+.
+
+administrasjon - Ansatte med en slik rolle holder arbeidet strukturert og holder oversikt. En politisk rådgiver kan utfylle en slik rolle. Vennlig og strukturert. 30+.
+
+integrasjon - brukerrepresentantene kan være viktige ledd i det sosiale klimaet. Personlige egenskaper som engasjement, og vennlighet beskriver denne rollen. 30+.
+
+entreprenørskap - Representant fra IT-avdelingen og kulturavdelingen kan dekke dette behovet. Bidrar med nytenkning og et kritisk øye. Kandidatene bør  reflektere kreativitet og detaljorientering. 30+.
 
 ## 2. Design av "det første møtet"
 
