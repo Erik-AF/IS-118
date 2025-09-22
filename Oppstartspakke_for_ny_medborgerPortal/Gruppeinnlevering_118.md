@@ -21,7 +21,11 @@ Skriv in teksten din her
 
 ## 5. Håndtering av tidspress og "planleggingsfellen"
 
-Skriv in teksten din her
+Prosjekter har som oftest en veldig klar deadline, der det settes sterke resultatforventninger.  I dette tilfelle har Erling 15 måneder til rådighet fra oppstart til full lansering av medborgerportalen. For at Erling skal håndtere dette tidspresset på best mulig måte, kan han dele opp prosjektet i ulike deler, og sette søkelys på en ting om gangen. Erling kan ta å dele opp prosjektet i faser og episoder. Faser går inn på hvordan gruppe arbeidet skal foregå, og episoder skal være knyttet til et delmål eller en milepæl.
+
+Faser:
+Erling kan dele opp prosjektet i forskjellige faser. Dette gjør det enklere å håndtere stress, og gjør at han kan fokusere på en ting om gangen. Det første er en «formingsfase» der gruppen etableres. Deretter følger en «stormingsfase» der uklarheter kommer opp og konflikter oppstår. Her er det viktig med god kommunikasjon innat gruppen. Dette følges av en «normsettingsfase» der det utarbeides felles normer og verdier, noe som til slutt går over i en «Produksjonsfase» kjennetegner av forutsigbarheten mot at ulike prosesser i prosjektgruppen er av ulik viktighet på ulike tidspunkter. (Jacobsen, 2016, s. 19)
+
 
 
 ## 6. Sikring av god kommunikasjon
