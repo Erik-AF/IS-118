@@ -26,7 +26,45 @@ entreprenørskap - Representant fra IT-avdelingen og kulturavdelingen kan dekke 
 
 ## 2. Design av "det første møtet"
 
-Skriv in teksten din her
+Et oppstartmøte skal legge grunnlaget for en handlingsplan, skape felles forståelse av prosjektets retning og bygge relasjoner mellom deltakerne. Derfor bygger dette forslaget på metodikkene LEAN og SMARTe mål som gir deltakerne tydelige rammer, eierskap og en felles plattform for samarbeid.
+
+**Velkomst og rammesetting (15 min)**
+
+Ha kaffe og enkel servering klar når deltakerne kommer. Gi rom for småprat og mingling før det faglige starter. Ønsk alle velkommen, presenter kort at møtet handler om teambygging og oppnå en felles måloppnåelse.
+Presentasjonsrunde og ice breaker (30 min)
+Alle introduserer seg med navn, rolle, fagbakgrunn og en «fun fact».
+Aktivitet: «To sannheter og en løgn». Deltakerne skriver ned tre påstander hvor én er feil. Gruppen gjetter løgnen. Øvelsen får alle involver, senker terskelen for dialog og bidrar til trygghet i teamet.
+
+**Pause (5 min)**
+
+**Prosjektets rammer og SMARTe mål (45 min)**
+
+SMARTe mål sikrer tydelighet og gjør styring enklere. Prosjektleder presenterer tid, budsjett og mål. Gruppen diskuterer og oversetter rammene til **SMARTe** mål:
+
+•	**Spesifikke**: Hva menes med «økt engasjement»?
+
+•	**Målbare**: Hvordan kan en 20 % forbedring dokumenteres?
+
+•	**Aksepterte**: Er målene noe alle kan stille seg bak?
+
+•	**Realistiske**: Er prosjektet realistisk innenfor 
+tidsrammen?
+
+•	**Tidsavgrensede**: Hva skal gjøres i løpet av 15 måneder?
+
+**Pause (10 min)** Gir deltakerne mulighet til å fordøye innholdet, ta en prat og styrke relasjoner.
+
+**LEAN-visualisering av prosjektet (60 min)**
+
+LEAN brukes for å skape oversikt og eierskap. Gruppen lager en tidslinje digitalt eller på vegg. Start med sluttresultatet, f.eks. lansering av portalen, og jobb bakover for å identifisere milepæler og aktiviteter. Alle bidrar, og det settes av tid til diskusjon for å sikre bred forståelse.
+
+**Sosial aktivitet: «Den perfekte portalen» (30 min)**
+
+Deltakerne settes sammen i par, helst med noen de ikke kjenner godt. Hver gruppe får ark og farger og ti minutter til å skissere sin «perfekte portal». Etterpå presenterer de for plenum. Aktiviteten fremmer kreativitet, samarbeid og gir et sosialt avbrekk som styrker samholdet.
+
+**Oppsummering og avrunding (15 min)**
+
+Oppsummer hovedpunktene fra SMARTe mål og LEAN-visualiseringen. Avtal hva neste samling skal fokusere på, f.eks. en workshop for informasjonsinnhenting. Avslutt gjerne med felles lunsj eller middag for å utvikle relasjonene videre.
 
 
 ## 3. Rammer for relasjonelle kontrakter
