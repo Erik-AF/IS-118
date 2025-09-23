@@ -39,7 +39,7 @@ Aktivitet: «To sannheter og en løgn». Deltakerne skriver ned tre påstander h
 
 **Prosjektets rammer og SMARTe mål (45 min)**
 
-SMARTe mål sikrer tydelighet og gjør styring enklere. Prosjektleder presenterer tid, budsjett og mål. Gruppen diskuterer og oversetter rammene til **SMARTe** mål:
+SMARTe mål sikrer tydelighet og gjør styring enklere. Prosjektleder presenterer tid, budsjett og mål (Jacobsen, 2016, s. 46, 47). Gruppen diskuterer og oversetter rammene til **SMARTe** mål:
 
 •	**Spesifikke**: Hva menes med «økt engasjement»?
 
@@ -56,7 +56,7 @@ tidsrammen?
 
 **LEAN-visualisering av prosjektet (60 min)**
 
-LEAN brukes for å skape oversikt og eierskap. Gruppen lager en tidslinje digitalt eller på vegg. Start med sluttresultatet, f.eks. lansering av portalen, og jobb bakover for å identifisere milepæler og aktiviteter. Alle bidrar, og det settes av tid til diskusjon for å sikre bred forståelse.
+LEAN brukes for å skape oversikt og eierskap (Jacobsen, 2016, s. 37). Gruppen lager en tidslinje digitalt eller på vegg. Start med sluttresultatet, f.eks. lansering av portalen, og jobb bakover for å identifisere milepæler og aktiviteter. Alle bidrar, og det settes av tid til diskusjon for å sikre bred forståelse.
 
 **Sosial aktivitet: «Den perfekte portalen» (30 min)**
 
@@ -130,3 +130,16 @@ God kommunikasjon er grunnleggende for å sikre gode team og effektivitet. De vi
 Det finnes flere ulike måter å kommunisere på, men i denne sammenhengen vil vi si at jevnbyrdig toveiskommunikasjon og Meta-kommunikasjon er mest sentralt. Dette fordi jevnbyrdig toveiskommunikasjon speiles gjennom gjensidig tillit, og her har alle i samtalen lik rett til å si deres mening. Dette kan gjøre samtalen mer effektiv ved at alle deltar likt og har tillit til hverandre. Når det kommer til Meta-kommunikasjon, snakker man her om kommunikasjonen i seg selv, altså hvordan man kan forbedre forståelsen og prosessen. Denne formen for kommunikasjon kan forminske usikkerhet i en gruppe, og føre til at flere blir med i samtalen, noe som kan være med på å skape bedre og mer effektiv kommunikasjon i teamet (Gjøsund & Huseby, 2025, s. 99).
 
 Når det kommer til råd og anbefalinger til prosjektlederen for å sikre en god og effektiv kommunikasjon i teamet, ville vi først og fremst tatt opp det å vise interesse i en samtale. Altså evnen til å lytte, følge med på den som snakker og komme med tilbakemeldinger på samtalen (Gjøsund & Huseby, 2025, s. 93). En annen anbefaling til prosjektlederen vil være å fordele og sekvensere samtaletid, slik at alle får deltatt like mye i samtalene og delt sine kunnskaper. I tillegg er det å finne felleskapsinteresser viktig for grupper, da man lettere kan dele erfaringer mellom hverandre (Gjøsund & Huseby, 2025, s. 96). Dersom prosjektlederen tar i bruk mange av disse forslagene vil det kunne føre til god og mer effektiv kommunikasjon innad i teamet, da alle deltar likt, lettere finner felles grunn, og har tillitt og respekt til hverandre.
+
+## Litteraturliste
+
+Semje. (2023, 22. oktober). *Om konflikthåndtering: hvordan forstå utfordringer handler om å forstå fremgangsmåten*.    Hentet fra https://semje.com/2023/10/om-konflikhtandtering/
+
+Sagen, S. (2021/2022). *Ledelsesstiler-psykologi* [Oppgave]. MF vitenskapelig høyskole for teologi, religion og samfunn. Hentet fra https://www.studocu.com/no/document/mf-vitenskapelig-hoyskole-for-teologi-religion-og-samfunn/pedagogikk/ledelsesstiler-psykologi/22472360
+
+Channell, M. (2025, 6. april). *Thomas-Kilmann Conflict Model Explained: Modes, Pros & Cons. TSW Training*. Hentet fra https://www.tsw.co.uk/blog/leadership-and-management/thomas-kilmann-conflict-model/
+
+Gjøsund, P. & Huseby, R. (2015). *To eller flere - basiskunnskaper i gruppepsykologi*. (Utg. 4.). Cappelen Damm.
+
+Jacobsen, D. I. (2016). *Engangsorganisasjonen*. Fagbokforlaget
+
