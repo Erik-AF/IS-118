@@ -46,6 +46,8 @@ kommunikasjon, tillit og trygghet, for å bygge et godt samarbeids miljø. Et sl
 
 **Evaluering**. Hvordan kan vi som gruppe følge opp samarbeidet og lære underveis, mot en bedre resultat. 
 
+Her er det noen konkrete verktøy og forslag som prosjektleder Erling kan bruke. Et samarbeidsmandats dokument som beskriver hvordan gruppen skal jobbe sammen. Planlegge oppstarts samtaler, her kan prosjektleder og prosjekteier snakke om forventninger, planer og samarbeid. Lage en kommunikasjonsplan som er tilpasset og tilgjengelig til alle involvert i prosjektet. Her kan Erling dele når og hvordan man skal ha møter og dele informasjon. Det kan også lages et evalueringsskjema, som brukes jevnlig for å sjekke hvordan samarbeidet går, I tillegg til å holde øye med resultatene. Prosjektet som Erling skal lede, består av mange fagområder. Derfor kan det lett oppstå misforståelser. En rasjonell kontrakt skal gjøre det lettere å samarbeide, selv når ting blir krevende. Boka sier «(…) prosjekter med kontrakter som også definerer sosiale relasjoner mellom deltakere, også opplever mindre konflikter» (Jacobsen, 2016, s. 45)
+
 
 
 ## 4. Proaktive mekanismer for konflikthåndtering
