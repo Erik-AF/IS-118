@@ -58,6 +58,7 @@ For å skape enighet og trygghet trenger teamet en gruppe-kontrakt som regulerer
 
 **Rollefordeling**
 Erling faller naturlig inn i rollen som teamleder, med ansvar for fremdrift av prosjektet, koordinering og beslutningstaking. Om man ser på Lewin’s teori om ledelsesstiler vil ett godt valg for Erling være og veksle mellom en demokratisk og en mer autoritær leder stil. Den demokratiske tilnærmingen fremmer deltakelse og diskusjon, mens en autoritær beslutning kan være nødvendig dersom gruppen ikke klarer å bli enige. (sagen. S, 2022). For å utnytte den brede kompetansen i gruppen kan det være hensiktsmessig at medlemmene deles inn i mindre arbeidsgrupper basert på fagområder 
+
 **Teamutvikling**
 Når et nytt team dannes, vil teamet gå gjennomgå fasene fra Bruce Tuckman sin modell. I forming-fasen er det viktig å skape trygghet og tydelige rammer gjennom en gruppe-kontrakt. Storming-fasen kan innebære uenighet og konflikter, og her er det avgjørende at Erling klarer å lede prosessen. I Norming-fasen utvikles felles normer og arbeidsmåter, mens teamet i Performing-fasen kan arbeide effektivt mot felles mål. 
 
