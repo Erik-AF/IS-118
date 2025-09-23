@@ -31,11 +31,13 @@ Et oppstartmøte skal legge grunnlaget for en handlingsplan, skape felles forst�
 **Velkomst og rammesetting (15 min)**
 
 Ha kaffe og enkel servering klar når deltakerne kommer. Gi rom for småprat og mingling før det faglige starter. Ønsk alle velkommen, presenter kort at møtet handler om teambygging og oppnå en felles måloppnåelse.
-Presentasjonsrunde og ice breaker (30 min)
+
+**Presentasjonsrunde og ice breaker (30 min)**
+
 Alle introduserer seg med navn, rolle, fagbakgrunn og en «fun fact».
 Aktivitet: «To sannheter og en løgn». Deltakerne skriver ned tre påstander hvor én er feil. Gruppen gjetter løgnen. Øvelsen får alle involver, senker terskelen for dialog og bidrar til trygghet i teamet.
 
-**Pause (5 min)**
+**Pause (5 min)** så folk kan hente kaffe, gå på do og mentalt klargjøre seg for det faglige som kommer 
 
 **Prosjektets rammer og SMARTe mål (45 min)**
 
@@ -56,16 +58,17 @@ tidsrammen?
 
 **LEAN-visualisering av prosjektet (60 min)**
 
-LEAN brukes for å skape oversikt og eierskap (Jacobsen, 2016, s. 37). Gruppen lager en tidslinje digitalt eller på vegg. Start med sluttresultatet, f.eks. lansering av portalen, og jobb bakover for å identifisere milepæler og aktiviteter. Alle bidrar, og det settes av tid til diskusjon for å sikre bred forståelse.
+LEAN er en arbeidsmetodikk som brukes for å skape oversikt og felles eierskap til et prosjekt. Det gjøres å visualisere prosjektperioden og planlegge aktiviteter bakover fra ønsket resultat (Jacobsen, 2016, s. 37). Gruppen lager en tidslinje digitalt eller på vegg. Start med sluttresultatet, f.eks. lansering av portalen, og jobb bakover for å identifisere milepæler og aktiviteter. Alle bidrar, og det settes av tid til diskusjon for å sikre bred forståelse.
 
 **Sosial aktivitet: «Den perfekte portalen» (30 min)**
 
-Deltakerne settes sammen i par, helst med noen de ikke kjenner godt. Hver gruppe får ark og farger og ti minutter til å skissere sin «perfekte portal». Etterpå presenterer de for plenum. Aktiviteten fremmer kreativitet, samarbeid og gir et sosialt avbrekk som styrker samholdet.
+Deltakerne settes sammen i par, helst med noen de ikke kjenner godt. Hver gruppe får et stort ark, farger og ti minutter til å skissere sin «perfekte portal». Etterpå presenterer de for plenum. Aktiviteten fremmer kreativitet, samarbeid og gir et sosialt avbrekk som styrker samholdet.
 
 **Oppsummering og avrunding (15 min)**
 
 Oppsummer hovedpunktene fra SMARTe mål og LEAN-visualiseringen. Avtal hva neste samling skal fokusere på, f.eks. en workshop for informasjonsinnhenting. Avslutt gjerne med felles lunsj eller middag for å utvikle relasjonene videre.
 
+Dette forslaget for oppstartsmøte får frem en tydelig planlegging av målene til gruppen, samt hvordan en skal gå frem å utføre arbeide. En får også bygget gode sosiale realasjoner med ice breaker og sosial aktiviteter. 
 
 ## 3. Rammer for relasjonelle kontrakter
 
