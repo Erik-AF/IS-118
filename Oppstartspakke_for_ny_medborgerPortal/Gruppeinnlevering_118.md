@@ -50,18 +50,19 @@ kommunikasjon, tillit og trygghet, for å bygge et godt samarbeids miljø. Et sl
 
 ## 4. Proaktive mekanismer for konflikthåndtering
 
+
 Erling skal være leder av et tverrfaglig team som består av syv til åtte medlemmer. Gruppen inkluderer representanter fra IT-avdelingen, kulturavdelingen, plan- og byggesaksavdelingen, en politisk rådgiver, en designer, en ekspert på digital sikkerhet, samt to representanter fra lokale foreninger.
 For å skape enighet og trygghet trenger teamet en gruppe-kontrakt som regulerer arbeidsform, rollefordeling, møtefrekvens og prosedyrer for konflikthåndtering. Et sentralt punkt i kontrakten er å tydeliggjøre hvem som har beslutningsmyndighet dersom gruppen ikke blir enig i en konflikt.
 
-Rollefordeling
-Erling faller naturlig inn i rollen som teamleder, med ansvar for fremdrift av prosjektet, koordinering og beslutningstaking. Om man ser på Lewin’s teori om ledelsesstiler vil ett godt valg for Erling være og veksle mellom en demokratisk og en mer autoritær leder stil. Den demokratiske tilnærmingen fremmer deltakelse og diskusjon, mens en autoritær beslutning kan være nødvendig dersom gruppen ikke klarer å bli enige. (sagen. S, 2022). For å utnytte den brede kompetansen i gruppen kan det være hensiktsmessig at medlemmene deles inn i mindre arbeidsgrupper basert på fagområder.
-
-Teamutvikling
+**Rollefordeling**
+Erling faller naturlig inn i rollen som teamleder, med ansvar for fremdrift av prosjektet, koordinering og beslutningstaking. Om man ser på Lewin’s teori om ledelsesstiler vil ett godt valg for Erling være og veksle mellom en demokratisk og en mer autoritær leder stil. Den demokratiske tilnærmingen fremmer deltakelse og diskusjon, mens en autoritær beslutning kan være nødvendig dersom gruppen ikke klarer å bli enige. (sagen. S, 2022). For å utnytte den brede kompetansen i gruppen kan det være hensiktsmessig at medlemmene deles inn i mindre arbeidsgrupper basert på fagområder 
+**Teamutvikling**
 Når et nytt team dannes, vil teamet gå gjennomgå fasene fra Bruce Tuckman sin modell. I forming-fasen er det viktig å skape trygghet og tydelige rammer gjennom en gruppe-kontrakt. Storming-fasen kan innebære uenighet og konflikter, og her er det avgjørende at Erling klarer å lede prosessen. I Norming-fasen utvikles felles normer og arbeidsmåter, mens teamet i Performing-fasen kan arbeide effektivt mot felles mål. 
 
-Konflikthåndtering
+**Konflikthåndtering**
 I en gruppe med ulike faglige bakgrunner og perspektiver er uenighet forventet. Gruppe-kontrakten fungerer derfor som en «mal» på hva som er rett. Dersom konflikter oppstår, bør de først håndteres gjennom forhandling og dialog, slik at alle parter får fremmet sine synspunkter (Semje, 2023) . 
 Her kan Thomas-Kilmanns konfliktmodell være nyttig, da den skisserer ulike strategier: konkurranse, samarbeid, kompromiss, unnvikelse og tilpasning. I dette teamet vil samarbeid og kompromiss være de beste tilnærmingene, fordi de ivaretar ett åpent og inkluderende team, gir partene mulighet til å ytre meninger og forhåpentligvis finne enighet gjennom gode samtaler. Dersom uenighet vedvarer, kan teamlederen enten ta en autoritær avgjørelse som nevnt tidligere - eller fungere som megler for å finne en løsning som alle kan akseptere. (Channell. M, 2025) 
+
 
 
 
